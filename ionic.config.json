@@ -1,0 +1,7 @@
+{
+  "name": "IndumentariApp_tmp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
